@@ -32,10 +32,10 @@ Author of the Micro-frontend API implementation in the [HtmlFlow](https://github
   style="height:35px" />
 </p>
 
+---
 
-## Connect with me
+### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/florin-sofinet/)
-- [GitHub](https://github.com/Florins13)
 
----
+
