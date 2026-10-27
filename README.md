@@ -12,7 +12,7 @@ I specialize in frontend engineering, with a focus on building secure, scalable,
 </a>
 
 **[Micro-frontends documentation →](https://htmlflow.org/docs/core-concepts#micro-frontends)**
-Open-source contributor - Implemented the [Micro-frontend API](https://github.com/xmlet/HtmlFlow) in the HtmlFlow library that provides type-safe HTML generation for Java and Kotlin.
+Open-source contributor with the implementation of [Micro-frontend API](https://github.com/xmlet/HtmlFlow) in the HtmlFlow library that provides type-safe HTML generation for Java and Kotlin.
 
 
 ### Pizzaria Roma
