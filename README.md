@@ -11,8 +11,8 @@ I specialize in frontend engineering, with a focus on building secure, scalable,
   <img src="./assets/htmlflow-logo.png" alt="HtmlFlow - Micro-frontends documentation" width="50" align="left" style="margin:10px"/>
 </a>
 
-**[Micro-frontends documentation →](https://htmlflow.org/docs/core-concepts#micro-frontends)**
-Open-source contributor with the implementation of [Micro-frontend API](https://github.com/xmlet/HtmlFlow) in the HtmlFlow library that provides type-safe HTML generation for Java and Kotlin.
+**[Micro-frontends →](https://htmlflow.org/docs/core-concepts#micro-frontends)**
+Open-source contributor to HtmlFlow library with the implementation of [Micro-frontend API](https://github.com/xmlet/HtmlFlow).
 
 
 ### Pizzaria Roma
@@ -21,7 +21,7 @@ Open-source contributor with the implementation of [Micro-frontend API](https://
   <img src="./assets/pizzaria-roma-logo.webp" alt="Pizzaria Roma logo" width="50" align="left" style="margin:10px"/>
 </a>
 
-**[Visit the Pizzaria Roma website →](https://www.pizzariaroma.pt)** I have developed a website for a local restaurant that is selling pizza.
+**[Pizzaria Roma →](https://www.pizzariaroma.pt)** I have developed a website for a local restaurant that is selling pizza.
 
 <br clear="left" />
 
