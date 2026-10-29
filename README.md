@@ -12,7 +12,7 @@ I specialize in frontend engineering, with a focus on building secure, scalable,
 </a>
 
 **[Micro-frontends →](https://htmlflow.org/docs/core-concepts#micro-frontends)**
-Open-source contributor to HtmlFlow library with the implementation of [Micro-frontend API](https://github.com/xmlet/HtmlFlow).
+Open-source contributor to HtmlFlow library with the implementation of Micro-frontend API.
 
 
 ### Pizzaria Roma
