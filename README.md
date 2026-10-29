@@ -4,7 +4,7 @@
 
 I specialize in frontend engineering, with a focus on building secure, scalable, and maintainable architectures.
 
-## Some of my works
+## Projects
 
 ### Micro-frontend API
 <a href="https://htmlflow.org/docs/core-concepts#micro-frontends">
