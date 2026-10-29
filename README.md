@@ -1,6 +1,6 @@
 # Hi, I'm Florin Sofinet 👋
 
-**Software Engineer** based in Portugal with 7 years of experience building scalable and performant web applications.
+**Software Engineer** with 7 years of experience building scalable and performant web applications.
 
 I specialize in frontend engineering, with a focus on building secure, scalable, and maintainable architectures.
 
